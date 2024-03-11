@@ -1,4 +1,4 @@
-### Bu repository C# 2.ödecleri kapsamaktadır.
+### Bu repository C# 2.ödevleri kapsamaktadır.
 
 - Ödevlerin konusu veri akışı ile ilgilidir.
 
